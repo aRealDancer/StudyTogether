@@ -1,0 +1,20 @@
+.login_box{
+	padding-top:20px;
+}
+
+table{
+	width: 600px;
+	height: 300px;
+	border-collapse: collapse;
+	margin:30px auto;
+	color:#000000;
+	padding:15px 0px;
+	text-align:center;
+	border:1px solid #c0c0c0;
+	
+}
+table tr th,table tr td{
+	margin:auto;
+	padding:10px;
+	text-align:center;
+}

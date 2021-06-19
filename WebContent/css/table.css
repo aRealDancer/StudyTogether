@@ -1,0 +1,29 @@
+
+table{
+	margin:auto;
+	border:1px solid #c0c0c0;	
+	border-collapse: collapse;
+	width:1000px;
+}
+table tr th,table tr td{
+	margin:auto;
+	border:1px solid #c0c0c0;	
+	padding:10px;
+	text-align:center;
+}
+
+.delete,.update,.add{
+	color:white;
+	border:0px;
+	padding:5px;
+}
+.delete{
+	background-color:#F47101;
+}
+.update{
+	background-color:#006934;
+}
+.add{
+	margin-top:35px;
+	background-color:#E60012;
+}
